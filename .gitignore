@@ -1,0 +1,15 @@
+# Prerequisites
+*.d
+*.o
+
+# Compiled Binaries
+cpu-cache-simulator/cache_sim
+contiguous_memory_management_simulator/memsim
+
+# Mac System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Debug Directories
+*.dSYM/
