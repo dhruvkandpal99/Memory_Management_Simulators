@@ -1,4 +1,4 @@
-```markdown
+
 # Memory Management & Architecture Simulators
 
 This repository contains two C++ simulation projects demonstrating core operating system and computer architecture concepts: a **Multilevel CPU Cache Simulator** and a **Contiguous Memory Management Simulator**.
@@ -79,8 +79,8 @@ make clean
 
 The `docs/` folder contains detailed reports and test logs for both projects:
 
-* **Cache Simulator:** `docs/Multilevel CPU Cache Simulator Report.pdf`
-* **Memory Manager:** `docs/Contiguous Memory Management Simulator Report.pdf`
+* **Cache Simulator:** `docs/Multilevel CPU Cache Simulator Report.pdf`, `docs/tests_cache.pdf`
+* **Memory Manager:** `docs/Contiguous Memory Management Simulator Report.pdf`, `docs/tests_contiguous.pdf`
 
 ## Prerequisites
 
